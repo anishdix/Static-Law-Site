@@ -1,0 +1,11 @@
+.heading{
+    text-align: center;
+    font-size: 54px;
+    font-weight: 600;
+    margin: 200px 0px 150px;
+}
+.CardCont{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}

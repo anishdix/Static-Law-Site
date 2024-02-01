@@ -1,0 +1,20 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 100px;
+}
+
+
+.midNav{
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+}
+
+.button{
+    background-color: var(--color-black);
+    color: var(--color-white);
+    width:172px;
+    border: 2px solid var(--color-white);
+}
+

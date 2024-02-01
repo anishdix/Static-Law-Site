@@ -1,0 +1,37 @@
+.container{
+     background-color: rgba(255,255,255,0.1);
+     display: flex;
+     flex-direction: column;
+     gap: 40px;
+     margin-bottom: 140px;
+}
+.heading{
+    margin-top: 90px;
+    font-size: 55px;
+    font-weight: 500;
+    text-align: center;
+}
+.searchCont{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    margin-bottom: 90px;
+}
+
+.name{
+    padding-left: 20px;
+    width: 276px;
+    height: 53px;
+    border-radius: 8px 0px 0px 8px;
+}
+.email{
+    width: 276px;
+    padding-left: 20px;
+}
+.button{
+    width: 116px;
+    border-radius: 0px 8px 8px 0px;
+    background-color: var(--color-primary);
+    font-weight: 700;
+    font-size: 14px;
+}

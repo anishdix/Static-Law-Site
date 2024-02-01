@@ -1,0 +1,54 @@
+.heroMain{
+    display: flex;
+}
+.heroText{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    max-width: 650px;
+    margin-right: 150px;
+    
+}
+.five{
+    font-size: 66px;
+    font-weight: 500;
+}
+.seven{
+    font-size: 66px;
+    font-weight: 700;
+    margin-bottom: 30px;
+}
+.lorem{
+    font-size: 18px;
+    opacity: 30%;
+    margin-bottom: 30px;
+}
+
+.search{
+    
+    width: 438px;
+    height: 74px;
+    border-radius: 43px;
+    opacity: 50%;
+    padding:0px 0px 0px 30px;
+    font-size: 16px;
+}
+
+.button{
+
+    position: absolute;
+    margin-top: 6px;
+    width: 137px;
+    height: 62px;
+    left:360px;
+    border-radius: 43px;
+    background-color: var(--color-primary);
+    border: none;
+    font-weight: 600;
+    font-size: 16px;
+}
+
+
+
+
